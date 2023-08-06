@@ -1,2 +1,3 @@
 # hello-world
-new project
+new project 
+study start!
